@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react';\n\nexport const Capitalize = ({ str }) => {\n  return str.charAt(0).toUpperCase() + str.slice(1)\n}"],"names":["_ref","str","charAt","toUpperCase","slice"],"mappings":"8RAE0BA,IAAa,IAAZC,IAAEA,GAAKD,EAChC,OAAOC,EAAIC,OAAO,GAAGC,cAAgBF,EAAIG,MAAM,EAAC"}

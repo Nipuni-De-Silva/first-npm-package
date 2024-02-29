@@ -1,0 +1,1 @@
+{"version":3,"file":"index.modern.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react';\n\nexport const Capitalize = ({ str }) => {\n  return str.charAt(0).toUpperCase() + str.slice(1)\n}"],"names":["Capitalize","str","charAt","toUpperCase","slice"],"mappings":"cAEa,MAAAA,EAAaA,EAAGC,SACpBA,EAAIC,OAAO,GAAGC,cAAgBF,EAAIG,MAAM"}
